@@ -54,3 +54,15 @@
   </div>
 
 </div>
+<div align="center" style="margin-top: 20px;">
+  <a href="Bonus Logic Calculator.py" style="text-decoration: none; 
+                                          background-color: #0984e3; 
+                                          color: white; 
+                                          padding: 12px 25px; 
+                                          border-radius: 50px; 
+                                          font-weight: bold; 
+                                          box-shadow: 0 4px 15px rgba(9, 132, 227, 0.3);
+                                          transition: 0.3s;">
+    🚀 تصفح كود البايثون من هنا
+  </a>
+</div>
