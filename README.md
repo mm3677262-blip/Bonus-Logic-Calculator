@@ -55,7 +55,7 @@
 
 </div>
 <div align="center" style="margin-top: 20px;">
-  <a href="Bonus Logic Calculator.py" style="text-decoration: none; 
+  <a href="https://colab.research.google.com/drive/1WL1d-YI6TcQMoxoEzclAciU8fjvdbVOk?usp=sharing" style="text-decoration: none; 
                                           background-color: #0984e3; 
                                           color: white; 
                                           padding: 12px 25px; 
