@@ -63,6 +63,6 @@
                                           font-weight: bold; 
                                           box-shadow: 0 4px 15px rgba(9, 132, 227, 0.3);
                                           transition: 0.3s;">
-    🚀 تصفح كود البايثون من هنا
+    اضغط هنا لتشغيل الكود و تجربته اونلاين على Google colab
   </a>
 </div>
